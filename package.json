@@ -1,0 +1,27 @@
+{
+  "name": "ReactFEMasters",
+  "version": "1.0.0",
+  "description": "Front End Masters React Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Habernet/ReactFEMasters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Habernet/ReactFEMasters/issues"
+  },
+  "homepage": "https://github.com/Habernet/ReactFEMasters#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-prettier": "^6.4.0",
+    "prettier": "^1.18.2"
+  }
+}
